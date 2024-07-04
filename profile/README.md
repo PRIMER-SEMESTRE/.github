@@ -1,5 +1,11 @@
 ## just to organize
 
+FUNDAMENTOS:
+  - https://github.com/PRIMER-SEMESTRE/git-flow-nivel1.git
+  - a
+
+PROGRAMACIÓN:
+
 <!--
 
 **Here are some ideas to get you started:**
