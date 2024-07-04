@@ -13,11 +13,11 @@ Prácticas git:
   - [alpha](https://github.com/PRIMER-SEMESTRE/alpha.git)
 
 Pruebas:
-- a
-- a
+- [UCB-test-1](https://github.com/PRIMER-SEMESTRE/UCB-test-1.git)
+- [UCB-Prueba1](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
 
-Tareas:
--
+[Tarea](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
+[Examen](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
 
 PROGRAMACIÓN:
 
