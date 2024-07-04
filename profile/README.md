@@ -1,8 +1,16 @@
 ## just to organize
 
-FUNDAMENTOS:
+### FUNDAMENTOS:
+Prácticas git:
   - https://github.com/PRIMER-SEMESTRE/git-flow-nivel1.git
   - a
+
+Pruebas:
+- a
+- a
+
+Tareas:
+-
 
 PROGRAMACIÓN:
 
