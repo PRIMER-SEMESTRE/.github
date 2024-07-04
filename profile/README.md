@@ -16,8 +16,12 @@ Pruebas:
 - [UCB-test-1](https://github.com/PRIMER-SEMESTRE/UCB-test-1.git)
 - [UCB-Prueba1](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
 
-[Tarea](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
-[Examen](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
+Tareas:
+- [Teoria](https://github.com/PRIMER-SEMESTRE/UCB-Prueba1.git)
+- [Diagramas de Flujo](https://github.com/PRIMER-SEMESTRE/Diagramas-de-flujo.git)
+- [Procesos de Negocio](https://github.com/PRIMER-SEMESTRE/Procesos-de-Negocio.git)
+
+[Examen](https://github.com/PRIMER-SEMESTRE/UCB-EXAMEN-1.git)
 
 PROGRAMACIÓN:
 
