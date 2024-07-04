@@ -2,17 +2,15 @@
 
 ### FUNDAMENTOS:
 Prácticas git:
-  - https://github.com/PRIMER-SEMESTRE/git-flow-nivel1.git
-  - https://github.com/PRIMER-SEMESTRE/git-flow-nivel2.git
-  - https://github.com/PRIMER-SEMESTRE/git-flow-nivel3.git
-  - https://github.com/PRIMER-SEMESTRE/t3-mambo.git
-  - https://github.com/PRIMER-SEMESTRE/t3-tango.git
-  - https://github.com/PRIMER-SEMESTRE/t3-zumba.git
-  - https://github.com/PRIMER-SEMESTRE/beta.git
-  - https://github.com/PRIMER-SEMESTRE/.git
-  - https://github.com/PRIMER-SEMESTRE/alpha.git
-[  - a
-](https://github.com/PRIMER-SEMESTRE/t3-mambo.git)
+  - [git-flow-nivel1](https://github.com/PRIMER-SEMESTRE/git-flow-nivel1.git)
+  - [git-flow-nivel2](https://github.com/PRIMER-SEMESTRE/git-flow-nivel2.git)
+  - [git-flow-nivel3](https://github.com/PRIMER-SEMESTRE/git-flow-nivel3.git)
+  - [t3-mambo](https://github.com/PRIMER-SEMESTRE/t3-mambo.git)
+  - [t3-tango](https://github.com/PRIMER-SEMESTRE/t3-tango.git)
+  - [t3-zumba](https://github.com/PRIMER-SEMESTRE/t3-zumba.git)
+  - [gamma](https://github.com/PRIMER-SEMESTRE/gamma.git)
+  - [beta](https://github.com/PRIMER-SEMESTRE/beta.git)
+  - [alpha](https://github.com/PRIMER-SEMESTRE/alpha.git)
 
 Pruebas:
 - a
