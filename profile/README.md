@@ -22,7 +22,7 @@ Tareas:
 
 [examen](https://github.com/PRIMER-SEMESTRE/UCB-EXAMEN-1.git)
 
-PROGRAMACIÓN:
+## PROGRAMACIÓN:
 Tareas:
 - [exercises-1-intro-progra](https://github.com/PRIMER-SEMESTRE/exercises-1-intro-progra.git)
 - [exercises-2-intro-progra](https://github.com/PRIMER-SEMESTRE/exercises-2-intro-progra.git)
